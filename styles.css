@@ -3,8 +3,8 @@
 	width:450px;
 	height:180px;
 	background-color:#D3D3D3;
-	border-radius:40px;
-	border:5px solid black;
+	border-radius:50px;
+	border:5px solid #070607;
 	display:flex;
 	justify-content: center;
 }
@@ -13,11 +13,11 @@
 	align-self: center;
 }
 .yellow{
-	background-color:yellow;
+	background-color:#FFFF04;
 	align-self: center;
 }
 .red{
-	background-color:red;
+	background-color:#FE0102;
 	align-self: center;
 }
 
